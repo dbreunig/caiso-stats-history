@@ -5,12 +5,12 @@
   "Limitation": 0,
   "CurrentSystemDemandWithoutPump": 23789,
   "histDemand": "50,270 MW",
-  "TodaysPeakDemand": 25161,
-  "slotDate": "03/13/2021 18:35",
+  "TodaysPeakDemand": 25294,
+  "slotDate": "03/13/2021 18:55",
   "gridstatus": [
     "Normal"
   ],
-  "currentCo2intensity": 0.27744508135711515,
+  "currentCo2intensity": 0.2774450727013111,
   "CurrentNetDemandWithoutPump": 18264,
   "histDemandDate": "Jul 24, 2006",
   "CurrentNetDemand": 18322,
@@ -20,7 +20,7 @@
   "CurrentAdjustedUnloadedGenerationCapacityTS": "20210313175952",
   "CurrentSystemDemandWithoutPumpTS": "20210313175811",
   "currentRenewableswoBatteries": 7151,
-  "TodaysPeakDemandTS": "20210313193404",
+  "TodaysPeakDemandTS": "20210313195148",
   "currentRenewables": 7146,
   "CurrentNetDemandTS": "20210313175811",
   "CurrentAdjustedUnloadedGenerationCapacity": 14609,
@@ -33,5 +33,5 @@
   "renewablesPercentwoBatteries": 30,
   "OutageDTS": null,
   "currentCo2": 6616,
-  "todayForecastPeakDemand": 25216
+  "todayForecastPeakDemand": 25260
 }
