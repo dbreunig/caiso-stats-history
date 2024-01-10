@@ -1,6 +1,6 @@
 {
-  "Unloaded_capacity_derated_max": 30642,
-  "todayForecastPeakDemand": 28147,
+  "Unloaded_capacity_derated_max": 30132,
+  "todayForecastPeakDemand": 28092,
   "Unloaded_capacity_1H": 13881,
   "Shutdown": "2501.37",
   "currentRenewablesHybrid": null,
@@ -22,13 +22,13 @@
   "CurrentAdjustedUnloadedGenerationCapacityTS": null,
   "currentBiogasCO2": null,
   "currentSolarHybrids": null,
-  "Unloaded_capacity_10M": 8790,
+  "Unloaded_capacity_10M": 8660,
   "currentRenewables": null,
   "currentWindHybrids": null,
   "currentCo2": 0,
   "currentImportsCO2": null,
   "CurrentSystemDemandWithoutPumpTS": null,
-  "Available_capacity": 8790,
+  "Available_capacity": 8660,
   "todayForecastPeakDemandTS": "20240109180000",
   "currentLargeHydro": null,
   "CurrentNetDemandWithoutPumpTS": null,
@@ -48,7 +48,7 @@
   "gridstatus": [
     "Normal"
   ],
-  "slotDate": "01/09/2024 16:10",
+  "slotDate": "01/09/2024 16:20",
   "renewablesPercentwoBatteries": null,
   "currentBatteriesStandalone": null,
   "currentCoal": null,
